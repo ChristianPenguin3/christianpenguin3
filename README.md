@@ -6,3 +6,9 @@
 - Website: https://christianpenguin3.cp3.ddns-ip.net
 - Blog: https://blog.cp3.ddns-ip.net
 - CodeHC: https://codehc.cp3.ddns-ip.net
+
+<h2>Learning</h2>
+
+- HTML
+- CSS
+- JS
